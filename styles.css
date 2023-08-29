@@ -30,4 +30,5 @@ body{
     object-fit: cover;
     object-position: center;
     padding: 30px;
+    border-radius: 28px;
 }
