@@ -18,8 +18,16 @@ body{
 }
 
 #card{
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 350px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 15px;
+}
+
+#card img{
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    padding: 30px;
 }
